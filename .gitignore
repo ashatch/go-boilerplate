@@ -1,0 +1,13 @@
+# file system detritus
+.DS_Store
+
+# unwanted editor cruft
+/.idea
+.vscode
+
+# build
+/bin
+/dist
+
+# config
+.envrc
